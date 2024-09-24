@@ -1,4 +1,5 @@
-***.DS_Store
+**/target
+*.DS_Store
 Thumbs.db
 
 ## Ignore Visual Studio temporary files, build results, and
